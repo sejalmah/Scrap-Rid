@@ -1,0 +1,65 @@
+
+
+.junkart-container {
+    max-width: 90%;
+    height: 58%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    padding: 1em;
+    border-radius: 0.8em;
+    box-shadow: 1px 4px 15px grey;
+    font-size: 10px;
+    /* font-family: 'Grandstander', cursive; */
+}
+
+#first {
+    font-size: 2em;
+}
+
+.second {
+    font-size: 2em;
+}
+
+.third {
+    font-size: 1.2em;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 2.5em;
+    color: black;
+    font-family: 'Grandstander', cursive;
+    padding: 2em;
+}
+
+
+.img-container {
+    text-align: center;
+    padding: 3em;
+    vertical-align: center;
+    margin: auto;
+}
+
+.item-list {
+    width: 9em;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin: auto;
+    width: 52.4em;
+    height: 42.2em;
+}
+
+.bg-dark {
+    background-color: #03396c!important;
+}

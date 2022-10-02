@@ -1,0 +1,33 @@
+.jj {
+    border: 1px solid #1f2020;
+    height: 307 px;
+    border-radius: 4px;
+}
+
+
+.aa {
+    color:#961b1b!important;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: 'Kufam', cursive;
+}
+
+.card-footer {
+    background-color: #2c2c2e;
+    border-top: 1px solid rgb(32, 31, 31);
+    opacity: 0.8;
+}
+
+.text-muted {
+    color: white!important;
+}
+
+
+.bg-dark {
+    background-color: #03396c!important;
+}
+
+.btn {
+    border-radius: 300px;
+    width: 120px;
+}
